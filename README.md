@@ -23,7 +23,7 @@ This is a simple C++ program that collects student information (ID, name, mark),
 
    ```bash
    g++ main.cpp -o student_app
-   sample output
+sample output
 How many students are there? 2
 
 Enter the ID of student 1: 101
