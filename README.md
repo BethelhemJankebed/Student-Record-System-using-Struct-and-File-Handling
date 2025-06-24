@@ -28,16 +28,23 @@ sample output
 How many students are there? 2
 
 Enter the ID of student 1: 101
+
 Enter the name of student 1: Alice
+
 Enter the mark of student 1: 78
 
 Enter the ID of student 2: 102
+
 Enter the name of student 2: Bob
+
 Enter the mark of student 2: 45
 
 Data written to file successfully.
 
 Contents of the file:
+
 ID	Name	Mark	Grade
+
 101	Alice	78	P
+
 102	Bob	45	F
